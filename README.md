@@ -30,3 +30,4 @@ a + b ∗ x^3
     * **test2** : _integrate_test2.jpg / mod_integrate_test2.jpg_
     * **test3** : _integrate_test3.jpg / mod_integrate_test3.jpg_
 * До модификации размер программы был 207 строк, а после 115. **Итого: минус _92 строки_.**
+# **Спасибо за внимание!**
